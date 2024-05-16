@@ -1,0 +1,5 @@
+rootProject.name = 'MultiModule_Grandle'
+include 'db'
+include 'api'
+include 'service'
+
